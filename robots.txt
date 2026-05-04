@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Costigan-Stephen.github.io/handbook-u2ubxk/sitemap.xml
